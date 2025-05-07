@@ -1,4 +1,4 @@
-# Python 3.10 or higher
+# Python 3.13 or higher
 
 torch==2.7.0
 torchvision==0.22.0
