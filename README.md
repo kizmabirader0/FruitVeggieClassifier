@@ -32,17 +32,24 @@ Makine öğrenimi teknikleri kullanarak görsel verileri sınıflandırmak ve bu
    ```bash
    python -m venv venv
    .\venv\Scripts\activate
+   ```
 
 2. **Bağımlılıkları yükleyin**:
 
+    ```bash
     pip install -r requirements.txt    
+    ```
 
     **Yüklenmesi gereken bağımlılıklar**
+    
+    ```
     torch==2.7.0
     torchvision==0.22.0
     Pillow==11.2.1
     gradio==5.29.0
-
+    ```
 
 3. **Kodu çalıştırın**:
+ ```bash
     python main.py
+ ```
