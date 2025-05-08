@@ -19,7 +19,7 @@ Makine öğrenimi teknikleri kullanarak görsel verileri sınıflandırmak ve bu
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- Python 3.10+
+- Python 3.13+
 - PyTorch (torch, torchvision)
 - Gradio
 - Pillow
